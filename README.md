@@ -3,6 +3,7 @@
 A shallow network is designed to extract the high level features (i.e., optical flow guided features) to perform the facial micro-expression recognition on three emotion classes (positive, negative and surprise).
 
 Example of micro-expressions:
+
 <img src="https://drive.google.com/uc?export=view&id=1IOj1fh9hSHETGh6VzM7PljoPOj1Z3zWK" data-canonical-src="https://drive.google.com/uc?export=view&id=1IOj1fh9hSHETGh6VzM7PljoPOj1Z3zWK" width="250" height="250"  />  <img src="https://drive.google.com/uc?export=view&id=1PeW7wNzA-plqs7juD43XkSJDeXm9LRXv" data-canonical-src="https://drive.google.com/uc?export=view&id=1PeW7wNzA-plqs7juD43XkSJDeXm9LRXv" width="250" height="250"  />  <img src="https://drive.google.com/uc?export=view&id=1iXtn2dULrD5blNONdFdop8T84Ibqp4yN" data-canonical-src="https://drive.google.com/uc?export=view&id=1iXtn2dULrD5blNONdFdop8T84Ibqp4yN" width="250" height="250"  />  
 SAMM (006_006_1_2), SMIC (s03_s03_po_11), CASME II (sub11_EP15_04f)
 
