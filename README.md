@@ -23,4 +23,4 @@ The files include:
 
 The exact configuration of STSTNet is:
 
-<img src="https://drive.google.com/uc?export=view&id=1BMcxSDxOKTU14iKRVDgMrrtW2trIrmrs" data-canonical-src="https://drive.google.com/uc?export=view&id=1BMcxSDxOKTU14iKRVDgMrrtW2trIrmrs" width="500" height="250" />
+<img src="https://drive.google.com/uc?export=view&id=1BMcxSDxOKTU14iKRVDgMrrtW2trIrmrs" data-canonical-src="https://drive.google.com/uc?export=view&id=1BMcxSDxOKTU14iKRVDgMrrtW2trIrmrs" width="500" height="200" />
