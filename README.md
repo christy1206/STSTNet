@@ -7,7 +7,7 @@ STSTNet is a two-layer neural network that is capable to learn the features from
 
 The recognition results achieved are:
 
-<img src="https://drive.google.com/uc?export=view&id=1VOi50jSdoB0YgU-6YUzSLz3KhiXIDbnj" data-canonical-src="https://drive.google.com/uc?export=view&id=1VOi50jSdoB0YgU-6YUzSLz3KhiXIDbnj" width="600" height="180"/>
+<img src="https://drive.google.com/uc?export=view&id=1VOi50jSdoB0YgU-6YUzSLz3KhiXIDbnj" data-canonical-src="https://drive.google.com/uc?export=view&id=1VOi50jSdoB0YgU-6YUzSLz3KhiXIDbnj" width="600" height="150"/>
 
 The databases include CASME II (145 videos), SMIC (164 videos) and SAMM (133 videos). Full is the composite database of the 3 databases (442 videos).
 
