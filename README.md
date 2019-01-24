@@ -28,7 +28,7 @@ The files include:
 1) main.m : Script which trains and tests the STSTNet (You may modify the input data, number of epochs, mini-batch size and the learning rate)
 2) STSTNet.mat : The STSTNet architecture design
 3) video442subName.txt : List of subject's name to validate the recognition performance in leave-one-subject-out cross validation (LOSOCV) 
-4) input : Input data (28x28x3) arranged in LOSOCV manner. Please download from https://bit.ly/2S35u05
+4) input : Input data (28x28x3) arranged in LOSOCV manner. The resized images of: 1) horizontal optical flow images; 2) vertical optical flow images, and; 3) optical strain, computed from the onset and apex frames. Please download from https://bit.ly/2S35u05 
 
 
 The exact configuration of STSTNet is:
