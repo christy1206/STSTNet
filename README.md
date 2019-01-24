@@ -3,10 +3,10 @@
 A shallow network is designed to extract the high level features (i.e., optical flow guided features) of the facial micro-expression details.
 STSTNet is a two-layer neural network that is capable to learn the features from three optical flow features (i.e., 1) optical strain; 2) horizontal optical flow images, and; 3) vertical optical flow images) computed from the onset and apex frames from each video.
 
-<img src="https://drive.google.com/uc?export=view&id=1IL9_xywe0nMhUITf6CuRZCx7npmaTq7b" data-canonical-src="https://drive.google.com/uc?export=view&id=1IL9_xywe0nMhUITf6CuRZCx7npmaTq7b" width="600" height="500" />
+<img src="https://drive.google.com/uc?export=view&id=1IL9_xywe0nMhUITf6CuRZCx7npmaTq7b" data-canonical-src="https://drive.google.com/uc?export=view&id=1IL9_xywe0nMhUITf6CuRZCx7npmaTq7b" width="500" height="400" />
 
 The recognition results achieved are:
-<img src="https://drive.google.com/uc?export=view&id=1VOi50jSdoB0YgU-6YUzSLz3KhiXIDbnj" data-canonical-src="https://drive.google.com/uc?export=view&id=1VOi50jSdoB0YgU-6YUzSLz3KhiXIDbnj"/>
+<img src="https://drive.google.com/uc?export=view&id=1VOi50jSdoB0YgU-6YUzSLz3KhiXIDbnj" data-canonical-src="https://drive.google.com/uc?export=view&id=1VOi50jSdoB0YgU-6YUzSLz3KhiXIDbnj"width="500" height="400"/>
 
 The databases include CASME II (145 videos), SMIC (164 videos) and SAMM (133 videos). Full is the composite database of the 3 databases (442 videos).
 
