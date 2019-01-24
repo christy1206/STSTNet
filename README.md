@@ -4,7 +4,7 @@ A shallow network is designed to extract the high level features of the facial m
 STSTNet is a two-layer neural network that is capable to learn the features from three optical flow features (i.e., 1) optical strain; 2) horizontal optical flow images, and; 3)vertical optical flow images) computed from the onset and apex frames from each video.
 STSTNet is able to exhibit the UAR recognition results of 76.05\%, 70.13\%, 86.86\% and 68.10\% in composite, SMIC, CASME II and SAMM databases, respectively. 
 
-![framework](https://drive.google.com/file/d/1IL9_xywe0nMhUITf6CuRZCx7npmaTq7b/view?usp=sharing)
+![framework](https://drive.google.com/uc?export=view&id=1IL9_xywe0nMhUITf6CuRZCx7npmaTq7b)
 
 Software is written and tested using Matlab 2018b, toolbox required:
 1) Deep Learning Toolbox
