@@ -6,7 +6,7 @@ STSTNet is a two-layer neural network that is capable to learn the features from
 <img src="https://drive.google.com/uc?export=view&id=1IL9_xywe0nMhUITf6CuRZCx7npmaTq7b" data-canonical-src="https://drive.google.com/uc?export=view&id=1IL9_xywe0nMhUITf6CuRZCx7npmaTq7b" width="600" height="500" />
 
 The recognition results achieved are:
-<img src="https://drive.google.com/uc?export=view&id=1VOi50jSdoB0YgU-6YUzSLz3KhiXIDbnj" data-canonical-src="https://drive.google.com/uc?export=view&id=1VOi50jSdoB0YgU-6YUzSLz3KhiXIDbnj" width="400" height="200" />
+<img src="https://drive.google.com/uc?export=view&id=1VOi50jSdoB0YgU-6YUzSLz3KhiXIDbnj" data-canonical-src="https://drive.google.com/uc?export=view&id=1VOi50jSdoB0YgU-6YUzSLz3KhiXIDbnj"/>
 
 Software is written and tested using Matlab 2018b, toolbox required:
 1) Deep Learning Toolbox
