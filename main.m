@@ -1,9 +1,3 @@
-clc
-clear all
-fid = fopen('video442Names.txt');
-garbage = textscan(fid,'%s','delimiter','\n');
-vid_list =garbage{1}; 
-
 fid = fopen('video442subName.txt');
 garbage = textscan(fid,'%s','delimiter','\n');
 subName =garbage{1}; 
