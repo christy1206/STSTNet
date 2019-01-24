@@ -1,6 +1,11 @@
 # STSTNet (Shallow Triple Stream Three-dimensional CNN)
 
 A shallow network is designed to extract the high level features (i.e., optical flow guided features) of the facial micro-expression details.
+
+<img src="https://drive.google.com/uc?export=view&id=1IOj1fh9hSHETGh6VzM7PljoPOj1Z3zWK" data-canonical-src="https://drive.google.com/uc?export=view&id=1IOj1fh9hSHETGh6VzM7PljoPOj1Z3zWK" width="100" height="100"    006_006_1_2
+https://drive.google.com/file/d/1PeW7wNzA-plqs7juD43XkSJDeXm9LRXv/view?usp=sharing s03_s03_po_11
+https://drive.google.com/file/d/1iXtn2dULrD5blNONdFdop8T84Ibqp4yN/view?usp=sharing sub11_EP15_04f
+
 STSTNet is a two-layer neural network that is capable to learn the features from three optical flow features (i.e., 1) optical strain; 2) horizontal optical flow images, and; 3) vertical optical flow images) computed from the onset and apex frames from each video.
 
 <img src="https://drive.google.com/uc?export=view&id=1IL9_xywe0nMhUITf6CuRZCx7npmaTq7b" data-canonical-src="https://drive.google.com/uc?export=view&id=1IL9_xywe0nMhUITf6CuRZCx7npmaTq7b" width="500" height="400" />
@@ -9,7 +14,7 @@ The recognition results achieved are:
 
 <img src="https://drive.google.com/uc?export=view&id=1VOi50jSdoB0YgU-6YUzSLz3KhiXIDbnj" data-canonical-src="https://drive.google.com/uc?export=view&id=1VOi50jSdoB0YgU-6YUzSLz3KhiXIDbnj" width="600" height="150"/>
 
-The databases include CASME II (145 videos), SMIC (164 videos) and SAMM (133 videos). Full is the composite database of the 3 databases (442 videos).
+The databases include CASME II (145 videos), SMIC (164 videos) and SAMM (133 videos). "Full" is the composite database of the 3 databases (442 videos).
 
 
 Software is written and tested using Matlab 2018b, toolbox required:
