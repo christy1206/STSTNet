@@ -1,11 +1,12 @@
 # STSTNet (Shallow Triple Stream Three-dimensional CNN)
 
+A shallow network is designed to extract the high level features (i.e., optical flow guided features) of the facial micro-expression details.
+STSTNet is a two-layer neural network that is capable to learn the features from three optical flow features (i.e., 1) optical strain; 2) horizontal optical flow images, and; 3) vertical optical flow images) computed from the onset and apex frames from each video.
+
 <img src="https://drive.google.com/uc?export=view&id=1IL9_xywe0nMhUITf6CuRZCx7npmaTq7b" data-canonical-src="https://drive.google.com/uc?export=view&id=1IL9_xywe0nMhUITf6CuRZCx7npmaTq7b" width="600" height="500" />
 
-A shallow network is designed to extract the high level features of the facial micro-expression details.
-STSTNet is a two-layer neural network that is capable to learn the features from three optical flow features (i.e., 1) optical strain; 2) horizontal optical flow images, and; 3)vertical optical flow images) computed from the onset and apex frames from each video.
-STSTNet is able to exhibit the UAR recognition results of 76.05\%, 70.13\%, 86.86\% and 68.10\% in composite, SMIC, CASME II and SAMM databases, respectively. 
-
+The recognition results achieved are:
+<img src="https://drive.google.com/uc?export=view&id=1VOi50jSdoB0YgU-6YUzSLz3KhiXIDbnj" data-canonical-src="https://drive.google.com/uc?export=view&id=1VOi50jSdoB0YgU-6YUzSLz3KhiXIDbnj" width="400" height="200" />
 
 Software is written and tested using Matlab 2018b, toolbox required:
 1) Deep Learning Toolbox
