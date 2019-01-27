@@ -13,21 +13,31 @@
 %  If you have any problem, please feel free to contact Sze Teng Liong (stliong@fcu.edu.tw)
 %% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-fid = fopen('video442subName.txt');
+% Read the 68 subject names
+fid = fopen('video442subName.txt'); 
 garbage = textscan(fid,'%s','delimiter','\n');
 subName =garbage{1}; 
 
+% Load STSTNet
 load ('STSTNet.mat')
+
+% Network configuration 
 opts = trainingOptions('adam', 'InitialLearnRate', 0.00005, 'MaxEpochs', 500, 'MiniBatchSize', 256,'Plots','training-progress');
 
+% LOSOCV train and test
 for nSub = 1:length(subName)
+    % Read train images and labels
     cd (['input\' , subName{nSub,:}]);
-    trainingImages = imageDatastore('u_train', 'IncludeSubfolders', true, 'LabelSource', 'foldernames');
+    trainingImages = imageDatastore('u_train', 'IncludeSubfolders', true, 'LabelSource', 'foldernames'); 
+    % Train model
     myNet = trainNetwork(trainingImages, STSTNet,opts);
     cd ('..\..')
-    cd (['input\' , subName{nSub,:}])
+    
+    % Read test images and labels
+    cd (['input\' , subName{nSub,:}])    
     testImages = imageDatastore('u_test', 'IncludeSubfolders', true, 'LabelSource', 'foldernames');
     desiredLabels =  testImages.Labels;
+    % Test images using trained model
     predictedLabels = classify(myNet, testImages);
     cd ('..\..')
 end
