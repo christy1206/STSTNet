@@ -35,3 +35,21 @@ The files include:
 The exact configuration of STSTNet is:
 
 <img src="https://github.com/christy1206/STSTNet/blob/picture/configuration.JPG" width="500" height="200"/>
+
+
+Citation
+
+If you use theis method in your research, please cite:
+
+@inproceedings{liong2019shallow,\
+  title={Shallow triple stream three-dimensional cnn (ststnet) for micro-expression recognition},\
+  author={Liong, Sze-Teng and Gan, YS and See, John and Khor, Huai-Qian and Huang, Yen-Chang},\
+  booktitle={2019 14th IEEE International Conference on Automatic Face \& Gesture Recognition (FG 2019)},\
+  pages={1--5},\
+  year={2019},\
+  organization={IEEE}\
+}
+
+Suggestions
+If you have suggestions or questions regarding this method, please reach out to stliong@fcu.edu.tw
+Thank you for your interest and support.
