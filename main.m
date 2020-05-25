@@ -1,7 +1,7 @@
 %% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %  This script is to perform the micro-expression recognition using STSTNet with LOSOCV protocol.
 %  Reference:
-%  xxxxxxxx
+%  Liong, S. T., Gan, Y. S., See, J., Khor, H. Q., & Huang, Y. C. (2019, May). Shallow triple stream three-dimensional cnn (ststnet) for micro-expression recognition. In 2019 14th IEEE International Conference on Automatic Face & Gesture Recognition (FG 2019) (pp. 1-5). IEEE.
 %
 %  The files include:
 %  1) main.m : Script which trains and tests the STSTNet 
