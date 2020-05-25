@@ -10,11 +10,11 @@ SAMM (006_006_1_2), SMIC (s03_s03_po_11), CASME II (sub11_EP15_04f)
 
 STSTNet is a two-layer neural network that is capable to learn the features from three optical flow features (horizontal optical flow images, vertical optical flow images and optical strain) computed from the onset and apex frames from each video.
 
-<img src="https://drive.google.com/uc?export=view&id=1IL9_xywe0nMhUITf6CuRZCx7npmaTq7b" data-canonical-src="https://drive.google.com/uc?export=view&id=1IL9_xywe0nMhUITf6CuRZCx7npmaTq7b" width="500" height="400" />
+<img src="https://github.com/christy1206/STSTNet/blob/picture/flow.JPG" width="500" height="400"/>
 
 The recognition results achieved are:
 
-<img src="https://drive.google.com/uc?export=view&id=1VOi50jSdoB0YgU-6YUzSLz3KhiXIDbnj" data-canonical-src="https://drive.google.com/uc?export=view&id=1VOi50jSdoB0YgU-6YUzSLz3KhiXIDbnj" width="600" height="150"/>
+<img src="https://github.com/christy1206/STSTNet/blob/picture/result.JPG" width="600" height="150"/>
 
 The databases include CASME II (145 videos), SMIC (164 videos) and SAMM (133 videos). "Full" is the composite database of the 3 databases (442 videos).
 
@@ -33,4 +33,5 @@ The files include:
 
 
 The exact configuration of STSTNet is:
-<img src="https://drive.google.com/uc?export=view&id=1BMcxSDxOKTU14iKRVDgMrrtW2trIrmrs" data-canonical-src="https://drive.google.com/uc?export=view&id=1BMcxSDxOKTU14iKRVDgMrrtW2trIrmrs" width="500" height="200" />
+
+<img src="https://github.com/christy1206/STSTNet/blob/picture/configuration.JPG" width="500" height="200"/>
