@@ -52,4 +52,5 @@ If you use theis method in your research, please cite:
 
 Suggestions
 If you have suggestions or questions regarding this method, please reach out to stliong@fcu.edu.tw
+
 Thank you for your interest and support.
