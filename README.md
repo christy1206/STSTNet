@@ -37,7 +37,6 @@ The exact configuration of STSTNet is:
 <img src="https://github.com/christy1206/STSTNet/blob/picture/configuration.JPG" width="500" height="200"/>
 
 
-Citation
 
 If you use theis method in your research, please cite:
 
@@ -50,7 +49,6 @@ If you use theis method in your research, please cite:
   organization={IEEE}\
 }
 
-Suggestions
 If you have suggestions or questions regarding this method, please reach out to stliong@fcu.edu.tw
 
 Thank you for your interest and support.
