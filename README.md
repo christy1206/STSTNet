@@ -8,7 +8,7 @@ Example of micro-expressions:
 
 SAMM (006_006_1_2), SMIC (s03_s03_po_11), CASME II (sub11_EP15_04f)
 
-STSTNet is a two-layer neural network that is capable to learn the features from three optical flow features (horizontal optical flow images, vertical optical flow images and optical strain) computed from the onset and apex frames from each video.
+STSTNet is a two-layer neural network that is capable to learn the features from three optical flow features (horizontal optical flow images, vertical optical flow images and optical strain) computed from the onset and apex frames from each video. Please find the source code for optical flow adopted in this experiment at http://www.ipol.im/pub/art/2013/26/
 
 <img src="https://github.com/christy1206/STSTNet/blob/picture/flow.JPG" width="500" height="400"/>
 
