@@ -38,7 +38,7 @@ The exact configuration of STSTNet is:
 
 
 
-If you use theis method in your research, please cite:
+If you use this method in your research, please cite:
 
 @inproceedings{liong2019shallow,\
   title={Shallow triple stream three-dimensional cnn (ststnet) for micro-expression recognition},\
