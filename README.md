@@ -19,6 +19,11 @@ The recognition results achieved are:
 The databases include CASME II (145 videos), SMIC (164 videos) and SAMM (133 videos). "Full" is the composite database of the 3 databases (442 videos).
 
 
+The exact configuration of STSTNet is:
+
+<img src="https://github.com/christy1206/STSTNet/blob/picture/configuration.JPG" width="500" height="200"/>
+
+## Matlab code
 Software is written and tested using Matlab 2018b, toolbox required:
 1) Deep Learning Toolbox
 2) Parallel Computing Toolbox 
@@ -32,13 +37,28 @@ The files include:
 4) input : Input data (28x28x3) arranged in LOSOCV manner. The resized images of: 1) horizontal optical flow images; 2) vertical optical flow images, and; 3) optical strain, computed from the onset and apex frames. Please download from https://bit.ly/2S35u05 
 
 
-The exact configuration of STSTNet is:
+## Python code
 
-<img src="https://github.com/christy1206/STSTNet/blob/picture/configuration.JPG" width="500" height="200"/>
+Pytorch framework is used to reproduce the result. Note that the results obtained are slightly lower from the original work. The result for Full (Composite) is UF1: 0.7209 and UAR: 0.725.
+
+<b>Step 1)</b> Please download the dataset from from https://bit.ly/2S35u05 
+
+<b>Step 2)</b> Place the files in the structure as follows:
+>├─STSTNet_Weights <br>
+>├─norm_u_v_os <br>
+>├─main.py <br>
+>├─requirements.txt <br>
+
+<b>Step 3)</b> Installation of packages using pip
+
+``` pip install -r requirements.txt ```
+
+<b>Step 4)</b> SOFTNet Training and Evaluation
+
+``` python main.py -- train False```
 
 
-
-If you use this method in your research, please cite:
+## If you use this method in your research, please cite:
 
 @inproceedings{liong2019shallow,\
   title={Shallow triple stream three-dimensional cnn (ststnet) for micro-expression recognition},\
