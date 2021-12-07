@@ -53,7 +53,7 @@ Pytorch framework is used to reproduce the result. Note that the results obtaine
 
 ``` pip install -r requirements.txt ```
 
-<b>Step 4)</b> SOFTNet Training and Evaluation
+<b>Step 4)</b> Training and Evaluation
 
 ``` python main.py -- train False```
 
