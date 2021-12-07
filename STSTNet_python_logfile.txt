@@ -1,0 +1,274 @@
+Subject: 006 
+Predicted   : [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2] 
+Ground Truth: [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2] 
+UF1: 0.5185 | UAR: nan 
+Subject: 007 
+Predicted   : [1, 1, 0, 1, 1, 0, 0, 1] 
+Ground Truth: [0, 1, 1, 1, 1, 1, 2, 2] 
+UF1: 0.5576 | UAR: 0.55 
+Subject: 009 
+Predicted   : [0, 2, 0, 2] 
+Ground Truth: [0, 0, 0, 2] 
+UF1: 0.5954 | UAR: 0.5897 
+Subject: 010 
+Predicted   : [0, 0, 0, 0] 
+Ground Truth: [0, 0, 0, 0] 
+UF1: 0.6152 | UAR: 0.6078 
+Subject: 011 
+Predicted   : [0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1] 
+Ground Truth: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1] 
+UF1: 0.5945 | UAR: 0.5778 
+Subject: 012 
+Predicted   : [1, 1, 2] 
+Ground Truth: [0, 0, 2] 
+UF1: 0.6049 | UAR: 0.5938 
+Subject: 013 
+Predicted   : [0, 0, 0, 0, 0, 0] 
+Ground Truth: [0, 0, 0, 0, 0, 0] 
+UF1: 0.6169 | UAR: 0.6053 
+Subject: 014 
+Predicted   : [1, 1, 1, 0, 1, 0, 1, 1, 1, 0] 
+Ground Truth: [0, 0, 1, 1, 1, 1, 1, 1, 1, 2] 
+UF1: 0.6117 | UAR: 0.5942 
+Subject: 015 
+Predicted   : [2, 1, 2] 
+Ground Truth: [0, 0, 2] 
+UF1: 0.6118 | UAR: 0.6057 
+Subject: 016 
+Predicted   : [0, 0, 1, 0, 2] 
+Ground Truth: [0, 0, 1, 2, 2] 
+UF1: 0.6275 | UAR: 0.6167 
+Subject: 017 
+Predicted   : [0, 1, 0, 1] 
+Ground Truth: [0, 0, 0, 2] 
+UF1: 0.6097 | UAR: 0.5997 
+Subject: 018 
+Predicted   : [0, 0, 1] 
+Ground Truth: [0, 0, 2] 
+UF1: 0.6002 | UAR: 0.5906 
+Subject: 019 
+Predicted   : [1] 
+Ground Truth: [1] 
+UF1: 0.6068 | UAR: 0.5969 
+Subject: 020 
+Predicted   : [1, 0, 0, 2] 
+Ground Truth: [0, 0, 1, 1] 
+UF1: 0.584 | UAR: 0.5757 
+Subject: 021 
+Predicted   : [0, 2] 
+Ground Truth: [0, 0] 
+UF1: 0.576 | UAR: 0.5726 
+Subject: 022 
+Predicted   : [1, 0, 2, 1, 0] 
+Ground Truth: [0, 0, 0, 1, 1] 
+UF1: 0.5635 | UAR: 0.5637 
+Subject: 023 
+Predicted   : [0] 
+Ground Truth: [0] 
+UF1: 0.5651 | UAR: 0.5653 
+Subject: 024 
+Predicted   : [0] 
+Ground Truth: [0] 
+UF1: 0.5666 | UAR: 0.5669 
+Subject: 026 
+Predicted   : [0, 0, 0, 0, 0, 0, 0, 0, 0] 
+Ground Truth: [0, 0, 0, 0, 0, 0, 0, 0, 0] 
+UF1: 0.5786 | UAR: 0.5793 
+Subject: 028 
+Predicted   : [1, 2, 2] 
+Ground Truth: [0, 2, 2] 
+UF1: 0.6013 | UAR: 0.6033 
+Subject: 030 
+Predicted   : [0, 0, 0] 
+Ground Truth: [0, 0, 0] 
+UF1: 0.6047 | UAR: 0.6069 
+Subject: 031 
+Predicted   : [0] 
+Ground Truth: [0] 
+UF1: 0.6057 | UAR: 0.608 
+Subject: 032 
+Predicted   : [0, 0, 0, 0] 
+Ground Truth: [0, 0, 0, 0] 
+UF1: 0.6097 | UAR: 0.6121 
+Subject: 033 
+Predicted   : [0, 0, 0, 0, 0] 
+Ground Truth: [0, 0, 0, 0, 1] 
+UF1: 0.6084 | UAR: 0.6087 
+Subject: 034 
+Predicted   : [0, 2, 0] 
+Ground Truth: [0, 0, 0] 
+UF1: 0.6022 | UAR: 0.6072 
+Subject: 035 
+Predicted   : [2, 0, 0, 0, 1, 2, 0, 2] 
+Ground Truth: [0, 0, 0, 0, 0, 0, 0, 2] 
+UF1: 0.5977 | UAR: 0.6128 
+Subject: 036 
+Predicted   : [0] 
+Ground Truth: [0] 
+UF1: 0.5985 | UAR: 0.6137 
+Subject: 037 
+Predicted   : [0] 
+Ground Truth: [0] 
+UF1: 0.5993 | UAR: 0.6145 
+Subject: s01 
+Predicted   : [2, 0, 0, 0, 1, 0] 
+Ground Truth: [0, 0, 0, 1, 1, 2] 
+UF1: 0.5894 | UAR: 0.6014 
+Subject: s02 
+Predicted   : [1, 2, 0, 2, 2, 2] 
+Ground Truth: [1, 2, 2, 2, 2, 2] 
+UF1: 0.6226 | UAR: 0.6305 
+Subject: s03 
+Predicted   : [1, 0, 2, 1, 0, 0, 0, 2, 1, 1, 0, 0, 0, 0, 2, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 2, 2, 1, 2, 2] 
+Ground Truth: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2] 
+UF1: 0.6456 | UAR: 0.6687 
+Subject: s04 
+Predicted   : [2, 2, 2, 1, 0, 0, 2, 1, 1, 0, 0, 2, 1, 2, 2, 2, 2, 1, 2] 
+Ground Truth: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 2, 2] 
+UF1: 0.6243 | UAR: 0.6543 
+Subject: s05 
+Predicted   : [0, 0] 
+Ground Truth: [0, 2] 
+UF1: 0.6214 | UAR: 0.6484 
+Subject: s06 
+Predicted   : [0, 1, 2, 0] 
+Ground Truth: [0, 0, 2, 2] 
+UF1: 0.6194 | UAR: 0.6448 
+Subject: s08 
+Predicted   : [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0] 
+Ground Truth: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1] 
+UF1: 0.6113 | UAR: 0.632 
+Subject: s09 
+Predicted   : [1, 1, 1, 0] 
+Ground Truth: [1, 2, 2, 2] 
+UF1: 0.603 | UAR: 0.6185 
+Subject: s11 
+Predicted   : [0, 0, 0, 0, 1, 1, 2] 
+Ground Truth: [0, 0, 0, 1, 1, 1, 2] 
+UF1: 0.6118 | UAR: 0.626 
+Subject: s12 
+Predicted   : [1, 1, 1, 1, 1, 0, 1, 1, 2] 
+Ground Truth: [1, 1, 1, 1, 1, 1, 1, 1, 2] 
+UF1: 0.6302 | UAR: 0.6426 
+Subject: s13 
+Predicted   : [0, 1, 1, 1, 0, 1, 0, 1, 0, 1] 
+Ground Truth: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1] 
+UF1: 0.633 | UAR: 0.6419 
+Subject: s14 
+Predicted   : [0, 0, 0, 1, 0, 2, 2, 2, 2, 2] 
+Ground Truth: [0, 0, 0, 1, 1, 2, 2, 2, 2, 2] 
+UF1: 0.6497 | UAR: 0.6576 
+Subject: s15 
+Predicted   : [1, 0, 2, 2] 
+Ground Truth: [0, 1, 2, 2] 
+UF1: 0.6506 | UAR: 0.6582 
+Subject: s18 
+Predicted   : [0, 0, 2, 2, 2, 2, 2] 
+Ground Truth: [0, 0, 2, 2, 2, 2, 2] 
+UF1: 0.6631 | UAR: 0.6704 
+Subject: s19 
+Predicted   : [0, 2] 
+Ground Truth: [1, 2] 
+UF1: 0.663 | UAR: 0.6696 
+Subject: s20 
+Predicted   : [0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 1, 2, 2, 0, 0, 2] 
+Ground Truth: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2] 
+UF1: 0.6712 | UAR: 0.6761 
+Subject: sub01 
+Predicted   : [0, 0, 1] 
+Ground Truth: [0, 0, 1] 
+UF1: 0.674 | UAR: 0.6789 
+Subject: sub02 
+Predicted   : [0, 1, 1, 1, 1, 2, 2, 2, 2] 
+Ground Truth: [0, 0, 0, 0, 0, 1, 2, 2, 2] 
+UF1: 0.6688 | UAR: 0.6762 
+Subject: sub03 
+Predicted   : [0, 0, 0, 0, 2] 
+Ground Truth: [0, 0, 0, 0, 2] 
+UF1: 0.6725 | UAR: 0.6799 
+Subject: sub04 
+Predicted   : [1, 0] 
+Ground Truth: [0, 0] 
+UF1: 0.6711 | UAR: 0.6791 
+Subject: sub05 
+Predicted   : [1, 2, 2, 2, 0, 2] 
+Ground Truth: [1, 2, 2, 2, 2, 2] 
+UF1: 0.6764 | UAR: 0.683 
+Subject: sub06 
+Predicted   : [0, 0, 2, 2] 
+Ground Truth: [0, 1, 2, 2] 
+UF1: 0.6778 | UAR: 0.6837 
+Subject: sub07 
+Predicted   : [0, 0, 0, 1, 0] 
+Ground Truth: [0, 0, 0, 0, 0] 
+UF1: 0.6779 | UAR: 0.6844 
+Subject: sub08 
+Predicted   : [1] 
+Ground Truth: [0] 
+UF1: 0.6761 | UAR: 0.6831 
+Subject: sub09 
+Predicted   : [0, 0, 0, 0, 0, 1, 1, 0, 1, 1] 
+Ground Truth: [0, 0, 0, 0, 0, 1, 1, 1, 1, 1] 
+UF1: 0.6831 | UAR: 0.6894 
+Subject: sub11 
+Predicted   : [0, 0, 0, 0] 
+Ground Truth: [0, 0, 0, 0] 
+UF1: 0.6849 | UAR: 0.6913 
+Subject: sub12 
+Predicted   : [0, 0, 1, 0, 0, 1, 1, 2, 2, 2, 2] 
+Ground Truth: [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2] 
+UF1: 0.693 | UAR: 0.6998 
+Subject: sub13 
+Predicted   : [0, 1] 
+Ground Truth: [1, 1] 
+UF1: 0.6927 | UAR: 0.6989 
+Subject: sub14 
+Predicted   : [0, 1, 1] 
+Ground Truth: [1, 1, 1] 
+UF1: 0.6939 | UAR: 0.6994 
+Subject: sub15 
+Predicted   : [0, 0, 2] 
+Ground Truth: [0, 1, 2] 
+UF1: 0.6938 | UAR: 0.6988 
+Subject: sub16 
+Predicted   : [0, 0, 1] 
+Ground Truth: [0, 1, 1] 
+UF1: 0.694 | UAR: 0.6984 
+Subject: sub17 
+Predicted   : [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 2] 
+Ground Truth: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2] 
+UF1: 0.7081 | UAR: 0.7126 
+Subject: sub19 
+Predicted   : [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2] 
+Ground Truth: [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2] 
+UF1: 0.7181 | UAR: 0.7225 
+Subject: sub20 
+Predicted   : [0, 0] 
+Ground Truth: [0, 0] 
+UF1: 0.7187 | UAR: 0.7232 
+Subject: sub21 
+Predicted   : [1] 
+Ground Truth: [0] 
+UF1: 0.7172 | UAR: 0.722 
+Subject: sub22 
+Predicted   : [0, 0] 
+Ground Truth: [0, 0] 
+UF1: 0.7179 | UAR: 0.7227 
+Subject: sub23 
+Predicted   : [0, 1, 0, 0, 0, 0, 0, 0] 
+Ground Truth: [0, 0, 0, 0, 0, 0, 0, 1] 
+UF1: 0.7168 | UAR: 0.7217 
+Subject: sub24 
+Predicted   : [0, 0, 2] 
+Ground Truth: [0, 0, 2] 
+UF1: 0.7184 | UAR: 0.7233 
+Subject: sub25 
+Predicted   : [0, 0, 0, 2, 2] 
+Ground Truth: [0, 0, 0, 2, 2] 
+UF1: 0.7213 | UAR: 0.7261 
+Subject: sub26 
+Predicted   : [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] 
+Ground Truth: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1] 
+UF1: 0.7209 | UAR: 0.725 
+Final Evaluation: 
+UF1: 0.7209 | UAR: 0.725 
