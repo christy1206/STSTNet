@@ -1,4 +1,4 @@
-# STSTNet (Shallow Triple Stream Three-dimensional CNN)
+# STSTNet (Shallow Triple Stream Three-dimensional CNN) for Micro-expression Recognition
 
 A shallow network is designed to extract the high level features (i.e., optical flow guided features) to perform the facial micro-expression recognition on three emotion classes (positive, negative and surprise).
 
